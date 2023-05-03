@@ -1,0 +1,6 @@
+C:\Development\ClassLibraryDemoApp\FrameworkLibrary\bin\Debug\FrameworkLibrary.dll
+C:\Development\ClassLibraryDemoApp\FrameworkLibrary\bin\Debug\FrameworkLibrary.pdb
+C:\Development\ClassLibraryDemoApp\FrameworkLibrary\obj\Debug\FrameworkLibrary.csproj.AssemblyReference.cache
+C:\Development\ClassLibraryDemoApp\FrameworkLibrary\obj\Debug\FrameworkLibrary.csproj.CoreCompileInputs.cache
+C:\Development\ClassLibraryDemoApp\FrameworkLibrary\obj\Debug\FrameworkLibrary.dll
+C:\Development\ClassLibraryDemoApp\FrameworkLibrary\obj\Debug\FrameworkLibrary.pdb

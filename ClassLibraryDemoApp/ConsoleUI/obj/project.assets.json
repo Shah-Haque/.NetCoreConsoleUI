@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CoreLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CoreLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoreLibrary.dll": {}
+        }
+      },
+      "FrameworkLibrary/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/FrameworkLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FrameworkLibrary.dll": {}
+        }
+      },
+      "StandardLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/StandardLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StandardLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CoreLibrary/CoreLibrary.csproj",
+      "msbuildProject": "../CoreLibrary/CoreLibrary.csproj"
+    },
+    "FrameworkLibrary/1.0.0": {
+      "type": "project",
+      "path": "../FrameworkLibrary/FrameworkLibrary.csproj",
+      "msbuildProject": "../FrameworkLibrary/FrameworkLibrary.csproj"
+    },
+    "StandardLibrary/1.0.0": {
+      "type": "project",
+      "path": "../StandardLibrary/StandardLibrary.csproj",
+      "msbuildProject": "../StandardLibrary/StandardLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CoreLibrary >= 1.0.0",
+      "FrameworkLibrary >= 1.0.0",
+      "StandardLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Dell\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Development\\ClassLibraryDemoApp\\ConsoleUI\\ConsoleUI.csproj",
+      "projectName": "ConsoleUI",
+      "projectPath": "C:\\Development\\ClassLibraryDemoApp\\ConsoleUI\\ConsoleUI.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "C:\\Development\\ClassLibraryDemoApp\\ConsoleUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Development\\ClassLibraryDemoApp\\CoreLibrary\\CoreLibrary.csproj": {
+              "projectPath": "C:\\Development\\ClassLibraryDemoApp\\CoreLibrary\\CoreLibrary.csproj"
+            },
+            "C:\\Development\\ClassLibraryDemoApp\\FrameworkLibrary\\FrameworkLibrary.csproj": {
+              "projectPath": "C:\\Development\\ClassLibraryDemoApp\\FrameworkLibrary\\FrameworkLibrary.csproj"
+            },
+            "C:\\Development\\ClassLibraryDemoApp\\StandardLibrary\\StandardLibrary.csproj": {
+              "projectPath": "C:\\Development\\ClassLibraryDemoApp\\StandardLibrary\\StandardLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

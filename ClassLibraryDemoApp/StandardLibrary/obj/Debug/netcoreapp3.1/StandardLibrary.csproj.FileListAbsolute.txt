@@ -1,0 +1,10 @@
+C:\Development\ClassLibraryDemoApp\StandardLibrary\bin\Debug\netcoreapp3.1\StandardLibrary.deps.json
+C:\Development\ClassLibraryDemoApp\StandardLibrary\bin\Debug\netcoreapp3.1\StandardLibrary.dll
+C:\Development\ClassLibraryDemoApp\StandardLibrary\bin\Debug\netcoreapp3.1\StandardLibrary.pdb
+C:\Development\ClassLibraryDemoApp\StandardLibrary\obj\Debug\netcoreapp3.1\StandardLibrary.csproj.AssemblyReference.cache
+C:\Development\ClassLibraryDemoApp\StandardLibrary\obj\Debug\netcoreapp3.1\StandardLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\ClassLibraryDemoApp\StandardLibrary\obj\Debug\netcoreapp3.1\StandardLibrary.AssemblyInfoInputs.cache
+C:\Development\ClassLibraryDemoApp\StandardLibrary\obj\Debug\netcoreapp3.1\StandardLibrary.AssemblyInfo.cs
+C:\Development\ClassLibraryDemoApp\StandardLibrary\obj\Debug\netcoreapp3.1\StandardLibrary.csproj.CoreCompileInputs.cache
+C:\Development\ClassLibraryDemoApp\StandardLibrary\obj\Debug\netcoreapp3.1\StandardLibrary.dll
+C:\Development\ClassLibraryDemoApp\StandardLibrary\obj\Debug\netcoreapp3.1\StandardLibrary.pdb
